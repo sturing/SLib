@@ -1,0 +1,2 @@
+# SLib
+SOVAZ C++ Library
